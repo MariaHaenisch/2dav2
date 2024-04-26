@@ -1,4 +1,4 @@
-;:root{
+:root{
     --branca-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-zul: #167BF7;
@@ -7,4 +7,7 @@
 body{
     background-color: var(--cor-de-fundo);
     color: var(--branca-principal);
+}
+.principal{
+    background-image: url(img/Background.png);
 }
